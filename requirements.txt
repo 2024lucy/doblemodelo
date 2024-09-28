@@ -1,0 +1,5 @@
+replicate
+transformers
+diffusers
+torch
+pillow
